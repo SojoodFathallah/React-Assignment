@@ -1,0 +1,25 @@
+
+.fickle {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #0D67B5;
+}
+
+.flight {
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    color: #2CA4E9;
+}
+
+nav {
+    display: flex;
+    gap: 1.5rem;
+    margin-left: auto;
+}
+
+
+
+  
+ 
